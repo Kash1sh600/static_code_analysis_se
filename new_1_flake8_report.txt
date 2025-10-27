@@ -1,0 +1,2 @@
+inventory_system.py:237:1: W293 blank line contains whitespace
+inventory_system.py:237:5: W292 no newline at end of file
